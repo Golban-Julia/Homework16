@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+}
+
+div h1 {
+  font-size: 40px;
+  color: aqua;
+}
+div p {
+  color: red;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */
